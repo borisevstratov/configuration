@@ -1,0 +1,8 @@
+cmake
+go
+k9s
+ncdu
+pyenv
+python@3.12
+python@3.13
+wget
